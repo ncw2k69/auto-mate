@@ -249,8 +249,8 @@ PARALLEL
 ### Step 1 - Clone the repository
 
 ```bash
-git clone https://github.com/your-username/automation.git
-cd automation
+git clone https://github.com/ncw2k69/auto-mate.git
+cd auto-mate
 ```
 
 ### Step 2 - Make all scripts executable
