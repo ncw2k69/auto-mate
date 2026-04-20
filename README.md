@@ -1,3 +1,6 @@
+<img width="1408" height="768" alt="auto-mate" src="https://github.com/user-attachments/assets/3a22e560-7c52-4dbf-9430-1997f48ed7b3" />
+
+
 # 🤖 Auto-Mate - Lightweight Bash Automation Framework
 
 A **lightweight, portable bash automation framework** designed for low-resource computers such as the Raspberry Pi Zero 2, Intel Atom boards, and any Debian-based Linux system. Orchestrates external processes (vite, bun, python) through a clean folder-based structure - no daemons, no heavy runtimes, no configuration files.
